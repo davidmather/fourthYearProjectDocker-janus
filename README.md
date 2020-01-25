@@ -1,4 +1,5 @@
 # docker-janus
+Janus configuration files used in conjunction with [qxip/docker-janus](https://github.com/QXIP/docker-janus) for project
 `docker-janus` is a Debian 8 based docker image for [Meetecho's Janus Gateway](https://github.com/meetecho/janus-gateway)
 
 ## Description
